@@ -18,9 +18,9 @@
 ## 가이드
 
 - [Guide 01 - Docker](./guide/guide-01.md)
-  - [Task 1. Docker 기본 실습](./guide/guide-01.md#task-1-docker-%EA%B8%B0%EB%B3%B8-%EC%8B%A4%EC%8A%B5)
+  - [Task 1. Docker 기본 실습](./guide/guide-01.md#task-1-docker-기본-실습)
 - [Guide 02 - Docker Compose](./guide/guide-02.md)
-  - [Task 1. Docker Compose 기본 실습](./guide/guide-02.md)
+  - [Task 1. Docker Compose 기본 실습](./guide/guide-02.md##task-1-docker-compose-기본-실습)
 - [Guide 03 - Kubernetes](./guide/guide-03.md)
   - [Task 1. kubectl](./guide/guide-03/task-01.md)
   - [Task 2. pod](./guide/guide-03/task-02.md)

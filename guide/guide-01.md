@@ -131,21 +131,31 @@ docker run -d -p 8000:80 \
 
 ## Exam 1. 방명록 만들기
 
-- frontend
-  - 이미지
-    - subicura/guestbook-frontend:latest
-  - 환경변수
-    - PORT # ex) 8000
-    - GUESTBOOK_API_ADDR # ex) APISERVER:8000
-- backend
-  - 이미지
-    - subicura/guestbook-backend:latest
-  - 환경변수
-    - PORT # ex) 8000
-    - GUESTBOOK_DB_ADDR # ex) DB:27017
-- mongodb
-  - 이미지: mongo:4
-  - 기본포트: 27017
+**frontend**
+
+이미지
+- subicura/guestbook-frontend:latest
+
+환경변수
+- PORT # ex) 8000
+- GUESTBOOK_API_ADDR # ex) APISERVER:8000
+
+**backend**
+
+이미지
+- subicura/guestbook-backend:latest
+
+환경변수
+- PORT # ex) 8000
+- GUESTBOOK_DB_ADDR # ex) DB:27017
+
+**mongodb**
+
+이미지
+- mongo:4
+
+기본포트
+- 27017
 
 ## 정리
 
