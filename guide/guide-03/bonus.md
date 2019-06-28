@@ -73,7 +73,7 @@ spec:
     apiVersion: extensions/v1
     kind: Deployment
     name: hpa-example-deploy
-  targetCPUUtilizationPercentage: 30
+  targetCPUUtilizationPercentage: 10
 ```
 
 ```
