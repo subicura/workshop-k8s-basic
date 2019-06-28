@@ -20,7 +20,7 @@
 - [Guide 01 - Docker](./guide/guide-01.md)
   - [Task 1. Docker 기본 실습](./guide/guide-01.md#task-1-docker-기본-실습)
 - [Guide 02 - Docker Compose](./guide/guide-02.md)
-  - [Task 1. Docker Compose 기본 실습](./guide/guide-02.md##task-1-docker-compose-기본-실습)
+  - [Task 1. Docker Compose 기본 실습](./guide/guide-02.md#task-1-docker-compose-기본-실습)
 - [Guide 03 - Kubernetes](./guide/guide-03.md)
   - [Task 1. kubectl](./guide/guide-03/task-01.md)
   - [Task 2. pod](./guide/guide-03/task-02.md)
