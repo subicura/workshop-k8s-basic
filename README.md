@@ -17,19 +17,19 @@
 
 ## 가이드
 
-- [Guide 01 - Docker](./guide/guide-01)
-  - [Task 1. Docker 기본 실습](./guide/guide-01#Task-1.-Docker-기본-실습)
-- Guide 02 - Docker Compose
-  - Task 1. Docker Compose 기본 실습
-- Guide 03 - Kubernetes
-  - Task 1. kubectl
-  - Task 2. pod
-  - Task 3. replicaset
-  - Task 4. deployment
-  - Task 5. service
-  - Task 6. load balancer
-  - Task 7. Ingress
-  - Bonus. Horizontal Pod Autoscaler
+- [Guide 01 - Docker](./guide/guide-01.md)
+  - [Task 1. Docker 기본 실습](./guide/guide-01.md#task-1-docker-%EA%B8%B0%EB%B3%B8-%EC%8B%A4%EC%8A%B5)
+- [Guide 02 - Docker Compose](./guide/guide-02.md)
+  - [Task 1. Docker Compose 기본 실습](./guide/guide-02.md)
+- [Guide 03 - Kubernetes](./guide/guide-03.md)
+  - [Task 1. kubectl](./guide/guide-03/task-01.md)
+  - [Task 2. pod](./guide/guide-03/task-02.md)
+  - [Task 3. replicaset](./guide/guide-03/task-03.md)
+  - [Task 4. deployment](./guide/guide-03/task-04.md)
+  - [Task 5. service](./guide/guide-03/task-05.md)
+  - [Task 6. load balancer](./guide/guide-03/task-06.md)
+  - [Task 7. ingress](./guide/guide-03/task-07.md)
+  - [Bonus. Horizontal Pod Autoscaler](./guide/guide-03/bonus.md)
 
 ## 문의 & 궁금한 사항
 
