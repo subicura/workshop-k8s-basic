@@ -4,6 +4,11 @@ metric-server 설치 필요
 
 https://github.com/kubernetes-incubator/metrics-server
 
+```
+kubectl top node
+kubectl top pod
+```
+
 ## 예제
 
 guide-03/bonus/hpa-example-deploy.yml
