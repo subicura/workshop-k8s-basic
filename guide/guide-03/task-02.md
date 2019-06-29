@@ -44,7 +44,11 @@ spec:
     image: subicura/whoami:1
 ```
 
-### livenessProbe 예제
+### Pod Ready
+
+![Ready](./imgs/pod-ready.png)
+
+### livenessProbe 예제 (살아 있는지 조사)
 
 guide-03/task-02/whoami-pod-lp.yml
 
@@ -69,7 +73,7 @@ spec:
       failureThreshold: 1 # Defaults 3
 ```
 
-### readinessProbe 예제
+### readinessProbe 예제 (준비가 되었는지 조사)
 
 guide-03/task-02/whoami-pod-rp.yml
 
