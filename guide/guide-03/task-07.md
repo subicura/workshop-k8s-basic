@@ -2,6 +2,23 @@
 
 nginx-ingress를 먼저 설치함 (K3S는 내장)
 
+## wildcard DNS
+
+ip를 기반으로 도메인을 쉽게 사용할 수 있습니다. 실습에서 사용합니다.
+
+- [sslip.io](https://sslip.io/)
+- [xip.io](http://xip.io/)
+- [nip.io](https://nip.io/)
+
+```
+10.0.0.1.nip.io maps to 10.0.0.1
+192-168-1-250.nip.io maps to 192.168.1.250
+app.10.8.0.1.nip.io maps to 10.8.0.1
+app-37-247-48-68.nip.io maps to 37.247.48.68
+customer1.app.10.0.0.1.nip.io maps to 10.0.0.1
+customer2-app-127-0-0-1.nip.io maps to 127.0.0.1
+```
+
 ## 예제
 
 ### 기본 예제
