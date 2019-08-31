@@ -35,6 +35,7 @@
 
 페이스북 메신저 또는 트위터로 연락주세요.
 
+- http://slack.opencontainer.co.kr
 - https://www.facebook.com/subicura
 - https://twitter.com/subicura
 - subicura(at)subicura(dot)com
