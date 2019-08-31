@@ -100,7 +100,7 @@ guide-02/guestbook/docker-compose.yml
 
 환경변수
 - PORT # ex) 8000
-- GUESTBOOK_API_ADDR # ex) APISERVER:8000
+- GUESTBOOK_API_ADDR # ex) backend:8000
 
 **backend**
 
@@ -109,7 +109,7 @@ guide-02/guestbook/docker-compose.yml
 
 환경변수
 - PORT # ex) 8000
-- GUESTBOOK_DB_ADDR # ex) DB:27017
+- GUESTBOOK_DB_ADDR # ex) mongodb:27017
 
 **mongodb**
 
