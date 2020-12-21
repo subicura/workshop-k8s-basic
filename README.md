@@ -1,5 +1,13 @@
 # kubernetes 기본 가이드
 
+## 쿠버네티스 안내서
+
+[![쿠버네티스 안내서](./imgs/guide.png)](https://subicura.com/k8s/)
+
+기존 실습 자료를 바탕으로 새로운 페이지로 이관하였습니다. 자세한 내용은 [쿠버네티스 안내서](https://subicura.com/k8s/)에서 확인하세요.
+
+새로운 소스는 [여기](https://github.com/subicura/k8s)있습니다.
+
 ## 소개
 
 이번 가이드는 docker와 docker-compose를 간단하게 알아보고 최종적으로 kubernetes의 기본 기능을 실습하도록 구성되어 있습니다.
